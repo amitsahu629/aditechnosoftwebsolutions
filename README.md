@@ -12,7 +12,7 @@
 - 💼 4+ Years Experience in IT  
 - ☕ Java Backend Developer (Spring Boot, Hibernate)  
 - 🌐 Web Developer (HTML, CSS, JavaScript)  
-- ⚡ Passionate about Automation & PLC  
+- ⚡ Passionate about Website & App Development
 - 📍 Based in India  
 
 ---
